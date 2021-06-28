@@ -1,0 +1,17 @@
+{
+  "title": "Slime Life",
+  "description": "The stories of the everyday life of a black mage and a slime that run a magic store together as master and servant.",
+  "artist": "Megasawara",
+  "author": "Megasawara",
+  "cover": "https://i.imgur.com/JzDzKWa.jpg",
+  "chapters": {
+    "168": {
+      "title": "Chauffeur Slime",
+      "volume": "7",
+      "groups": {
+        "SKT": "/proxy/api/imgur/chapter/np1TH9X/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
